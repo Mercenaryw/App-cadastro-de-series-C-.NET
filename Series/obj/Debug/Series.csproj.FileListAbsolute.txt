@@ -1,0 +1,7 @@
+C:\Users\Juliana\source\repos\Serier\Serier\obj\Debug\Series.csprojAssemblyReference.cache
+C:\Users\Juliana\source\repos\Serier\Serier\obj\Debug\Series.csproj.CoreCompileInputs.cache
+C:\Users\Juliana\source\repos\Serier\Serier\bin\Debug\Serier.exe.config
+C:\Users\Juliana\source\repos\Serier\Serier\bin\Debug\Serier.exe
+C:\Users\Juliana\source\repos\Serier\Serier\bin\Debug\Serier.pdb
+C:\Users\Juliana\source\repos\Serier\Serier\obj\Debug\Serier.exe
+C:\Users\Juliana\source\repos\Serier\Serier\obj\Debug\Serier.pdb
